@@ -1,3 +1,9 @@
+10. 神经网络机器翻译
+
+时间：2017年
+https://github.com/fortyMiles/neural-machine-translation
+介绍：本项目用纯Python实现了基于Seq2Seq + Attention机制的神经网络翻译模型
+
 ## Neural Machine Translation
 
 Machine Translation Framework.
